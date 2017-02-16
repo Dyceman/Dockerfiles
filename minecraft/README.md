@@ -1,1 +1,2 @@
-## This is a placeholder for services
+# Docker-Minercraft
+Docker files for Minecraft on Pterodactyl. Each branch is a separate tag in docker.
